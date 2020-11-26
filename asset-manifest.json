@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zholobov-samurai/static/css/main.ff103b8d.chunk.css",
-    "main.js": "/zholobov-samurai/static/js/main.a13be1a5.chunk.js",
-    "main.js.map": "/zholobov-samurai/static/js/main.a13be1a5.chunk.js.map",
+    "main.js": "/zholobov-samurai/static/js/main.f07c14b4.chunk.js",
+    "main.js.map": "/zholobov-samurai/static/js/main.f07c14b4.chunk.js.map",
     "runtime-main.js": "/zholobov-samurai/static/js/runtime-main.47c8a38d.js",
     "runtime-main.js.map": "/zholobov-samurai/static/js/runtime-main.47c8a38d.js.map",
     "static/js/2.4c4e2d1e.chunk.js": "/zholobov-samurai/static/js/2.4c4e2d1e.chunk.js",
@@ -23,7 +23,7 @@
     "static/js/7.7e044d75.chunk.js": "/zholobov-samurai/static/js/7.7e044d75.chunk.js",
     "static/js/7.7e044d75.chunk.js.map": "/zholobov-samurai/static/js/7.7e044d75.chunk.js.map",
     "index.html": "/zholobov-samurai/index.html",
-    "precache-manifest.90f846b51443376e22986ffe1dbb7a1c.js": "/zholobov-samurai/precache-manifest.90f846b51443376e22986ffe1dbb7a1c.js",
+    "precache-manifest.43cac9977e0e303d55f45b4f265338a1.js": "/zholobov-samurai/precache-manifest.43cac9977e0e303d55f45b4f265338a1.js",
     "service-worker.js": "/zholobov-samurai/service-worker.js",
     "static/css/3.32e6135c.chunk.css.map": "/zholobov-samurai/static/css/3.32e6135c.chunk.css.map",
     "static/css/4.2b283795.chunk.css.map": "/zholobov-samurai/static/css/4.2b283795.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.47c8a38d.js",
     "static/js/2.4c4e2d1e.chunk.js",
     "static/css/main.ff103b8d.chunk.css",
-    "static/js/main.a13be1a5.chunk.js"
+    "static/js/main.f07c14b4.chunk.js"
   ]
 }
