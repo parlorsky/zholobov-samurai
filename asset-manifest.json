@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zholobov-samurai/static/css/main.ff103b8d.chunk.css",
-    "main.js": "/zholobov-samurai/static/js/main.35c13bdf.chunk.js",
-    "main.js.map": "/zholobov-samurai/static/js/main.35c13bdf.chunk.js.map",
-    "runtime-main.js": "/zholobov-samurai/static/js/runtime-main.47c8a38d.js",
-    "runtime-main.js.map": "/zholobov-samurai/static/js/runtime-main.47c8a38d.js.map",
-    "static/js/2.4c4e2d1e.chunk.js": "/zholobov-samurai/static/js/2.4c4e2d1e.chunk.js",
-    "static/js/2.4c4e2d1e.chunk.js.map": "/zholobov-samurai/static/js/2.4c4e2d1e.chunk.js.map",
+    "main.js": "/zholobov-samurai/static/js/main.4678ca11.chunk.js",
+    "main.js.map": "/zholobov-samurai/static/js/main.4678ca11.chunk.js.map",
+    "runtime-main.js": "/zholobov-samurai/static/js/runtime-main.bfefb420.js",
+    "runtime-main.js.map": "/zholobov-samurai/static/js/runtime-main.bfefb420.js.map",
+    "static/js/2.98f02357.chunk.js": "/zholobov-samurai/static/js/2.98f02357.chunk.js",
+    "static/js/2.98f02357.chunk.js.map": "/zholobov-samurai/static/js/2.98f02357.chunk.js.map",
     "static/css/3.32e6135c.chunk.css": "/zholobov-samurai/static/css/3.32e6135c.chunk.css",
-    "static/js/3.74dbe82f.chunk.js": "/zholobov-samurai/static/js/3.74dbe82f.chunk.js",
-    "static/js/3.74dbe82f.chunk.js.map": "/zholobov-samurai/static/js/3.74dbe82f.chunk.js.map",
+    "static/js/3.0500b83e.chunk.js": "/zholobov-samurai/static/js/3.0500b83e.chunk.js",
+    "static/js/3.0500b83e.chunk.js.map": "/zholobov-samurai/static/js/3.0500b83e.chunk.js.map",
     "static/css/4.2b283795.chunk.css": "/zholobov-samurai/static/css/4.2b283795.chunk.css",
     "static/js/4.0e88cfcc.chunk.js": "/zholobov-samurai/static/js/4.0e88cfcc.chunk.js",
     "static/js/4.0e88cfcc.chunk.js.map": "/zholobov-samurai/static/js/4.0e88cfcc.chunk.js.map",
@@ -20,10 +20,10 @@
     "static/js/6.16786df6.chunk.js": "/zholobov-samurai/static/js/6.16786df6.chunk.js",
     "static/js/6.16786df6.chunk.js.map": "/zholobov-samurai/static/js/6.16786df6.chunk.js.map",
     "static/css/7.806744c8.chunk.css": "/zholobov-samurai/static/css/7.806744c8.chunk.css",
-    "static/js/7.7e044d75.chunk.js": "/zholobov-samurai/static/js/7.7e044d75.chunk.js",
-    "static/js/7.7e044d75.chunk.js.map": "/zholobov-samurai/static/js/7.7e044d75.chunk.js.map",
+    "static/js/7.4b70abe8.chunk.js": "/zholobov-samurai/static/js/7.4b70abe8.chunk.js",
+    "static/js/7.4b70abe8.chunk.js.map": "/zholobov-samurai/static/js/7.4b70abe8.chunk.js.map",
     "index.html": "/zholobov-samurai/index.html",
-    "precache-manifest.98b25fe2f583456f33752ae7c37c49c1.js": "/zholobov-samurai/precache-manifest.98b25fe2f583456f33752ae7c37c49c1.js",
+    "precache-manifest.bfaadc03e07e3bb5175776037a1c697d.js": "/zholobov-samurai/precache-manifest.bfaadc03e07e3bb5175776037a1c697d.js",
     "service-worker.js": "/zholobov-samurai/service-worker.js",
     "static/css/3.32e6135c.chunk.css.map": "/zholobov-samurai/static/css/3.32e6135c.chunk.css.map",
     "static/css/4.2b283795.chunk.css.map": "/zholobov-samurai/static/css/4.2b283795.chunk.css.map",
@@ -31,14 +31,14 @@
     "static/css/6.0ab0ac3b.chunk.css.map": "/zholobov-samurai/static/css/6.0ab0ac3b.chunk.css.map",
     "static/css/7.806744c8.chunk.css.map": "/zholobov-samurai/static/css/7.806744c8.chunk.css.map",
     "static/css/main.ff103b8d.chunk.css.map": "/zholobov-samurai/static/css/main.ff103b8d.chunk.css.map",
-    "static/js/2.4c4e2d1e.chunk.js.LICENSE.txt": "/zholobov-samurai/static/js/2.4c4e2d1e.chunk.js.LICENSE.txt",
+    "static/js/2.98f02357.chunk.js.LICENSE.txt": "/zholobov-samurai/static/js/2.98f02357.chunk.js.LICENSE.txt",
     "static/media/preloader.svg": "/zholobov-samurai/static/media/preloader.4d137bac.svg",
     "static/media/userpng.jpg": "/zholobov-samurai/static/media/userpng.9ec83b2a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.47c8a38d.js",
-    "static/js/2.4c4e2d1e.chunk.js",
+    "static/js/runtime-main.bfefb420.js",
+    "static/js/2.98f02357.chunk.js",
     "static/css/main.ff103b8d.chunk.css",
-    "static/js/main.35c13bdf.chunk.js"
+    "static/js/main.4678ca11.chunk.js"
   ]
 }
