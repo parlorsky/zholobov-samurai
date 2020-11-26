@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "819caf805233d8010f4c1feb47849146",
+    "revision": "fa67dd31e1e1e5bc2bb740cc9e5c335e",
     "url": "/zholobov-samurai/index.html"
   },
   {
-    "revision": "b97040c864e2f051a123",
+    "revision": "a48069b8b2086de4c99e",
     "url": "/zholobov-samurai/static/css/3.32e6135c.chunk.css"
   },
   {
@@ -20,24 +20,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zholobov-samurai/static/css/6.0ab0ac3b.chunk.css"
   },
   {
-    "revision": "2d5ca941860f14e70ed7",
+    "revision": "bfbe7d3fcdce74e5f7a7",
     "url": "/zholobov-samurai/static/css/7.806744c8.chunk.css"
   },
   {
-    "revision": "03b1999de7ffadd5eeb7",
+    "revision": "eba0d95505c365269c2c",
     "url": "/zholobov-samurai/static/css/main.ff103b8d.chunk.css"
   },
   {
-    "revision": "18595845b562c64ad9a9",
-    "url": "/zholobov-samurai/static/js/2.4c4e2d1e.chunk.js"
+    "revision": "0e288ce300de581edd24",
+    "url": "/zholobov-samurai/static/js/2.f0b0a378.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/zholobov-samurai/static/js/2.4c4e2d1e.chunk.js.LICENSE.txt"
+    "url": "/zholobov-samurai/static/js/2.f0b0a378.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b97040c864e2f051a123",
-    "url": "/zholobov-samurai/static/js/3.74dbe82f.chunk.js"
+    "revision": "a48069b8b2086de4c99e",
+    "url": "/zholobov-samurai/static/js/3.fc91976d.chunk.js"
   },
   {
     "revision": "32ae9137e342d8aefcea",
@@ -52,16 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zholobov-samurai/static/js/6.16786df6.chunk.js"
   },
   {
-    "revision": "2d5ca941860f14e70ed7",
-    "url": "/zholobov-samurai/static/js/7.7e044d75.chunk.js"
+    "revision": "bfbe7d3fcdce74e5f7a7",
+    "url": "/zholobov-samurai/static/js/7.7c9223a3.chunk.js"
   },
   {
-    "revision": "03b1999de7ffadd5eeb7",
-    "url": "/zholobov-samurai/static/js/main.1ee52001.chunk.js"
+    "revision": "eba0d95505c365269c2c",
+    "url": "/zholobov-samurai/static/js/main.b781a903.chunk.js"
   },
   {
-    "revision": "2179fcd42b1857b4ff0f",
-    "url": "/zholobov-samurai/static/js/runtime-main.47c8a38d.js"
+    "revision": "82494374e45b162408ab",
+    "url": "/zholobov-samurai/static/js/runtime-main.d9268257.js"
   },
   {
     "revision": "4d137bac0d086851afceee16688c4024",
