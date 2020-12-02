@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zholobov-samurai/precache-manifest.616fc3d56a6eb92563b62c54aecab21c.js"
+  "/zholobov-samurai/precache-manifest.76d78e5493926529e84f5fb74d08d795.js"
 );
 
 self.addEventListener('message', (event) => {
