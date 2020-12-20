@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "378265220b20967ab6b68ab24c800309",
+    "revision": "2ee6717c3350037bb5ca5ad7dfa7561e",
     "url": "/zholobov-samurai/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zholobov-samurai/static/css/7.25b44a53.chunk.css"
   },
   {
-    "revision": "71e39919b1e591964e76",
+    "revision": "6ec7534089ba112579e7",
     "url": "/zholobov-samurai/static/css/main.8890cf8c.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zholobov-samurai/static/js/7.2a8c36d1.chunk.js"
   },
   {
-    "revision": "71e39919b1e591964e76",
-    "url": "/zholobov-samurai/static/js/main.598d9d25.chunk.js"
+    "revision": "6ec7534089ba112579e7",
+    "url": "/zholobov-samurai/static/js/main.d1dcbe01.chunk.js"
   },
   {
     "revision": "9856b7aa7e22d357887c",
