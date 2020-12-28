@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1548b7b2289e575bd94a58e1da5fd31",
+    "revision": "609382be3fd529c8ef3a1c13708fd349",
     "url": "/zholobov-samurai/index.html"
   },
   {
-    "revision": "9b692a27c84baf472f1f",
+    "revision": "27662744018d6d06551a",
     "url": "/zholobov-samurai/static/css/3.27ce67c5.chunk.css"
   },
   {
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zholobov-samurai/static/css/7.25b44a53.chunk.css"
   },
   {
-    "revision": "d40a3cfd955ea0cd0d13",
+    "revision": "ae433e06bddddd660131",
     "url": "/zholobov-samurai/static/css/main.8890cf8c.chunk.css"
   },
   {
-    "revision": "07f9dd88773172839275",
-    "url": "/zholobov-samurai/static/js/2.49f43c49.chunk.js"
+    "revision": "86b615ce4d3a774410cb",
+    "url": "/zholobov-samurai/static/js/2.df6d8452.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/zholobov-samurai/static/js/2.49f43c49.chunk.js.LICENSE.txt"
+    "url": "/zholobov-samurai/static/js/2.df6d8452.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b692a27c84baf472f1f",
-    "url": "/zholobov-samurai/static/js/3.7291089a.chunk.js"
+    "revision": "27662744018d6d06551a",
+    "url": "/zholobov-samurai/static/js/3.ad3b0227.chunk.js"
   },
   {
     "revision": "e0278f5d85544fe21c8d",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zholobov-samurai/static/js/7.2a8c36d1.chunk.js"
   },
   {
-    "revision": "d40a3cfd955ea0cd0d13",
-    "url": "/zholobov-samurai/static/js/main.2f99a8e2.chunk.js"
+    "revision": "ae433e06bddddd660131",
+    "url": "/zholobov-samurai/static/js/main.3d4f7e0e.chunk.js"
   },
   {
-    "revision": "9856b7aa7e22d357887c",
-    "url": "/zholobov-samurai/static/js/runtime-main.e47e6b5f.js"
+    "revision": "47b6ea832f381a68780d",
+    "url": "/zholobov-samurai/static/js/runtime-main.296cee19.js"
   },
   {
     "revision": "4d137bac0d086851afceee16688c4024",
